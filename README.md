@@ -1,2 +1,2 @@
 # C#-tutorials
-Repository of csharp tutorials. 
+Repository of C# tutorials. 
